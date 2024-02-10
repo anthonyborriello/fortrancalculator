@@ -16,5 +16,3 @@ gfortran -o somma_numeri somma_numeri.f90
 Esegui il programma compilato in questo modo:
 ./somma_numeri
 
-Seguendo questi passaggi, dovresti essere in grado di creare, compilare ed eseguire il tuo programma Fortran per calcolare la somma di due numeri.
-Se incontri problemi o hai ulteriori domande, non esitare a chiedere!
