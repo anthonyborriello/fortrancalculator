@@ -1,7 +1,6 @@
-Un semplice programma in fortran che ho pubblicato per il mio video su Youtube
+Un semplice programma in fortran che ho pubblicato per il mio video su Youtube.
 
-Installa fortran
-
+Se stai utilizzando Linux Debian, installa Fortran:
 ```plaintext
 sudo apt-get install gfortran
 ```
