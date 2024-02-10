@@ -1,4 +1,4 @@
-Un semplice programma in fortran che ho pubblicato per il mio video su Youtube.
+Un semplice programma in fortran che ho pubblicato per il mio video su Youtube:
 https://youtu.be/Vr209n8IDoM
 
 Se stai utilizzando Linux Debian, installa Fortran:
