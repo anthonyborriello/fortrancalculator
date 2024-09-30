@@ -7,7 +7,7 @@ sudo apt-get install gfortran
 ```
 Effettua il download del file fortran
 ```plaintext
-wget https://raw.githubusercontent.com/anthonyborriello/fortrancalculator/main/somma_numeri.f90
+wget https://raw.githubusercontent.com/anthonyborriello/fortrancalculator/main/somma_numeri
 ```
 Compila il programma utilizzando il compilatore gfortran:
 ```plaintext
